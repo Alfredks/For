@@ -10,6 +10,14 @@ namespace forOvningar
     {
         static void Main(string[] args)
         {
+
+
+            for (int i = 0; i < length; i++)
+            {
+
+            }
+
+
         }
     }
 }
